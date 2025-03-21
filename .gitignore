@@ -1,0 +1,64 @@
+# ============ UNITY PROJECTS ============
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity cache
+*.pidb
+*.booproj
+*.svd
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VSCode
+.vscode/
+
+# Visual Studio
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.bak
+*.ncb
+*.log
+*.vs/
+
+#Visual Studio Code
+.vscode/
+
+
+# Crash and debug
+*.stacktrace
+*.dmp
+
+# OS / Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity Cloud Build
+UnityCloudBuild/
+
+# Auto-generated
+*.apk
+*.unitypackage
+
+# Addressable Asset System
+/ServerData/
+*.addressables
+
+# Personal settings (opcional ignorar)
+UserSettings/
+
+# Git
+.gitattributes
+
